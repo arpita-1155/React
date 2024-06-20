@@ -15,7 +15,7 @@ When you run the `npm start` command in a Node.js project, it typically does the
 2. **Opens the Application in a Browser:** Automatically opens the application in the default web browser.
 3. **Enables Live Reloading:** Watches for changes in the source files and automatically reloads the application when changes are detected.
 
-In the context of a Create React App project, `npm start` runs the app in development mode at [http://localhost:3000](http://localhost:3000).
+In the context of a Create React App project, `npm start` runs the app in development mode at [http://localhost:3000/](http://localhost:3000/).
 
 For more details, you can refer to the [official Create React App documentation](https://create-react-app.dev/docs/getting-started).
 
